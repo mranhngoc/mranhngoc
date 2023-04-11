@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi Guys - Welcome to my Github repository
+- I started my coding journey on 2022/07/10
+- I'm wishing to become a full-stack developer in the future, so don't hesitate to contact me to point out my flaws, it will help me to grow up much faster. Thank you very much.
 
 <!--
 **mranhngoc/mranhngoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
